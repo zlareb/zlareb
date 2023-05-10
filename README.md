@@ -1,5 +1,8 @@
 ### Hi there 👋
 **`Student, Founder`**
+
+Basic thing about me, what do they need to know about me? can i do the job? will i be happy doing the job? will i get along with the team?
+
 <!--
 **zlareb/zlareb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
