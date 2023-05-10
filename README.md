@@ -5,7 +5,7 @@ Basic thing about me, what do they need to know about me? can i do the job? will
 
 ---
 
-#
+
 
 <details>
  <summary><h3>👨‍💻 Lareb's Coding Journey</h3></summary>
