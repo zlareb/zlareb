@@ -5,6 +5,11 @@ Basic thing about me, what do they need to know about me? can i do the job? will
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lareb bibi zulfqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lareb bibi zulfqar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zlareb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zlareb" height="30" width="40" /></a>
+</p>
 
 
 <details>
