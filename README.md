@@ -2,7 +2,7 @@
 **`Student, Founder`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Living+and+growing+a+little+more+every+day)](https://git.io/typing-svg)
----
+
 <!-- Basic thing about me, what do they need to know about me? can i do the job? will i be happy doing the job? will i get along with the team? -->
 
 <!-- <h3 align="left">More about me:</h3>
