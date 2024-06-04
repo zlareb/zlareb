@@ -1,4 +1,4 @@
-**`Student, Founder`**
+**`CS Student @ HKU`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Living+and+growing+a+little+more+every+day)](https://git.io/typing-svg)
 
